@@ -33,3 +33,11 @@ color: black;
     font-size: 25px;
     margin:15px;
 }
+.play_button{
+width: 150px;
+font-size: 25px;
+}
+canvas{
+border:5px solid whitesmoke;
+border-radius: 20px;
+}
